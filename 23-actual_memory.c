@@ -1,5 +1,5 @@
 //21-11-2024
-
+//traversing through memory was taught today using pointers
 #include <stdio.h>
 
 
